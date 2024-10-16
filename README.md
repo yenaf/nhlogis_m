@@ -1,8 +1,7 @@
-# NHLogis_m
+<h1 style="display:none">NHLogis_m</h1>
 
 > 농협물류 모바일
 
-<h1 style="display:none">NHLogis</h1>
 <img src="https://capsule-render.vercel.app/api?type=Waving&&color=388E3C&height=300&section=header&text=🚛%20NHLogis%20&fontSize=90&fontColor=fff" />
 
 <p align="center">
