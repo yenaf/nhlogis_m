@@ -20,13 +20,13 @@
 
 ## 🟢 PROJECT INTRO
 
-> NHLogis Renewal
+> NHLogis Renewal (mobile)
 
 <p>
 기존의 농협 물류 웹 사이트의 메인 페이지를 사용자 중심의 디자인으로 새롭게 리뉴얼 했습니다.
 </p>
 
-![농협물류 리뉴얼](https://github.com/user-attachments/assets/9d2277f5-eb70-4ccf-b5dc-dcf65f513aac)
+![농협물류 모바일](https://github.com/user-attachments/assets/22f64b4d-4530-4ebb-a9ec-533510544110)
 
 ## 🟢 DEMO VIDEO
 
